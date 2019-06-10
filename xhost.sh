@@ -1,6 +1,11 @@
 #!/bin/bash
 #
 # Vhost-creator-for-apache v 1.0.1
+#
+# Install: cd /usr/local/bin && wget -O xhost https://raw.githubusercontent.com/andrewsokolok/apache_vhostcreator/master/xhost.sh && chmod +x xhost
+#
+# Usage: xhost
+#
 
 spinner ()
 {
